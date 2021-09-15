@@ -1,0 +1,94 @@
+body{
+  background-image: url('https://images.unsplash.com/photo-1604382354936-07c5d9983bd3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTR8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80');
+  background-size: cover; 
+  background-position: top center; 
+}
+
+
+ul {
+  padding-left: 2rem;
+}
+
+.optionsDiv{
+  background-color: rgb(161, 205, 241);
+  color: rgb(83, 56, 6);
+  font-weight: bold;
+  border: 1px solid #080808;
+  border-radius: 10px;
+  position: relative;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 30%;
+  padding: 20px;
+  text-align: center;
+  margin-top: 250px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.orderDivText {
+  background-color: rgb(161, 205, 241);
+  color: rgb(83, 56, 6);
+  font-weight: bold;
+  border: 1px solid #080808;
+  border-radius: 10px;
+  position: relative;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 30%;
+  padding: 20px;
+  text-align: center;
+  margin-top: 106px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.placeOrderDivText {
+  background-color: rgb(161, 205, 241);
+  color: rgb(83, 56, 6);
+  font-weight: bold;
+  border: 1px solid #080808;
+  border-radius: 10px;
+  position: relative;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 30%;
+  padding: 20px;
+  margin-top: 275px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.cardDiv{
+  border:rgb(1, 0, 5) solid 1.5px;
+  border-radius: 10px;
+  align-items: center;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.logoDiv{
+ 
+  /* background-image: url('./assets/bg-1.jpg'); */
+  background-size: cover; 
+  background-position: top center; 
+}
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
