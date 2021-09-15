@@ -22,7 +22,4 @@ OR
 - open live server version of index.html in your browser.
 
 ## Repo Link:
-https://github.com/rafatfatima-qa/pizza-ordering-app
-
-## Live Link:
-https://rafatfatima-qa.github.io/pizza-ordering-app/
+https://github.com/shairyar500/Pizza-Order-App.git
