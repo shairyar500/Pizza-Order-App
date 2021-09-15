@@ -24,5 +24,5 @@ OR
 ## Repo Link:
 https://github.com/shairyar500/Pizza-Order-App.git
 
-## Repo Link:
+## live Link:
 https://shairyar500.github.io/Pizza-Order-App/
