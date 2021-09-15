@@ -1,8 +1,8 @@
-# Pizza-Ordering-App - PLEASE DO NOT COPY OR CHANGE THIS CODE
-- A React JS project.
+# Pizza-Ordering-App 
+-A React JS project.
 
 ## What does this app do?
-- This is a pizza ordering app created using reactjs, we are fetching orders list thru an API, placing an order and Cancelling order in this app.
+- This is a pizza ordering app created using react.js, it fetched orders list from an API.
 
 ## API used:
  https://order-pizza-api.herokuapp.com/api/orders
